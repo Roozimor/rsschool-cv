@@ -8,8 +8,7 @@
 
 >4. No skills
 
->5. ```
-        <html>
+>5. ```<html>
         <title> Прекрасный заголовок </title>
         <header>
         <h1>Заголовок</h1>
@@ -34,7 +33,6 @@
         <p>Сделано бессоной ночью</p>
         </footer>
         </html>
-    ```
 >6. NO experience
 
 >7. Secondary special , technician technologist
