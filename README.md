@@ -1,2 +1,2 @@
 # rsschool-cv
-[CV](https://Roozimor.github.io/rsschool-cv/cv)
+[CV](https://Roozimor.github.io/rsschool-cv/)
