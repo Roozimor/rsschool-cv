@@ -8,7 +8,7 @@
 
 >4.No skills
 
->5.Sample code    ```<html>
+>5.Sample code       ``` <html>
                            <head>
                              <h1>Заголовок</h1>
                              <p>текст под заголовком </p>
@@ -19,7 +19,8 @@
                            <footer>
                              <p>Сделано бессоной ночью</p>
                            </footer>
-                       </html>
+                      </html>```
+
 >6.NO experience
 
 >7.Secondary special , technician technologist
