@@ -1,2 +1,1 @@
-# rsschool-cv
-[CV](https://Roozimor.github.io/rsschool-cv/)
+https://Roozimor.github.io/rsschool-cv/
